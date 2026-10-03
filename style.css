@@ -1,72 +1,94 @@
-    * {
-        font-family: sans-serif;
-    }
-    
-    header {
-        background-color: rgb(49, 49, 218);
-        height: 700px;
-        width: 100%;
-        text-align: center;
-        padding-top: 200px;
-        color: white;
-    }
-    
-    header p {
-        border-bottom: 1px solid white;
-        width: 790px;
-        margin: 0 auto;
-        padding-bottom: 20px;
-    }
-    
-    header h1 {
-        font-size: 50px;
-    }
-    
-    .date p {
-        text-align: center;
-    }
-    
-    span {
-        color: red;
-    }
-    
-    .main {
-        padding-left: 250px;
-        padding-right: 250px;
-    }
-    
-    .main h1 {
-        font-size: 40px;
-    }
-    
-    .main h3 {
-        text-transform: uppercase;
-        font-size: 15px;
-        padding-top: 25px;
-    }
-    
-    .main p {
-        font-weight: 800;
-    }
-    
-    #qoute {
-        border-left: 3px solid red;
-        padding-left: 20px;
-        margin-left: 40px;
-        padding-top: 10px;
-        margin-top: 50px;
-        font-weight: 400;
-    }
-    
-    #qoute span {
-        display: block;
-        padding-top: 10px;
-        font-weight: 800;
-        color: black;
-        margin-left: 20px;
-    }
-    
-    #em {
-        border-bottom: 1px solid red;
-        padding-bottom: 10px;
-    }
+        * {
+            font-family: sans-serif;
+        }
+        
+        header {
+            background-color: rgb(49, 49, 218);
+            height: 700px;
+            width: 100%;
+            text-align: center;
+            padding-top: 200px;
+            color: white;
+        }
+        
+        header p {
+            border-bottom: 1px solid white;
+            width: 790px;
+            margin: 0 auto;
+            padding-bottom: 20px;
+        }
+        
+        header h1 {
+            font-size: 50px;
+        }
+        
+        .date p {
+            text-align: center;
+        }
+        
+        span {
+            color: red;
+        }
+        
+        .main {
+            padding-left: 250px;
+            padding-right: 250px;
+        }
+        
+        .main h1 {
+            font-size: 40px;
+        }
+        
+        .main h3 {
+            text-transform: uppercase;
+            font-size: 15px;
+            padding-top: 25px;
+        }
+        
+        .main p {
+            font-weight: 800;
+        }
+        
+        #qoute {
+            border-left: 3px solid red;
+            padding-left: 20px;
+            margin-left: 40px;
+            padding-top: 10px;
+            margin-top: 50px;
+            font-weight: 400;
+        }
+        
+        #qoute span {
+            display: block;
+            padding-top: 10px;
+            font-weight: 800;
+            color: black;
+            margin-left: 20px;
+        }
+        
+        #em {
+            border-bottom: 1px solid red;
+            padding-bottom: 10px;
+        }
+        
+        footer {
+            background-color: magenta;
+            height: 70px;
+            margin-top: 50px;
+        }
+        
+        ul {
+            text-align: center;
+            padding-top: 25px;
+        }
+        
+        body {
+            margin-bottom: 0;
+        }
+        
+        li {
+            display: inline;
+            text-align: center;
+            padding-left: 20px;
+            color: white;
+        }
